@@ -285,21 +285,6 @@ Per-label results on the test split:
 
 > Important: these metrics were obtained on a prepared and balanced dataset. They describe the quality of the performed experiment, but they do not guarantee the same performance on arbitrary real-world user data.
 
-## Repository structure
-
-Recommended repository structure:
-
-```text
-.
-├── README.md
-├── Нейромодератор_v_0_1.ipynb
-├── NeuroModerator_v_0_1_EN.ipynb
-├── requirements.txt
-├── models_cache/              # trained model cache, if published separately
-├── feature_cache/             # TF-IDF, SVD and meta-feature cache, if published separately
-└── artifacts/                 # additional experiment artifacts
-```
-
 ## How to run
 
 ### Option 1. Google Colab
