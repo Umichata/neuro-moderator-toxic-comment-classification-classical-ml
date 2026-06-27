@@ -1,0 +1,17 @@
+kagglehub
+kaggle
+pandas
+numpy
+matplotlib
+seaborn
+lightgbm
+xgboost
+transformers
+sentencepiece
+sacremoses
+torch
+tqdm
+pymorphy2
+pyarrow
+joblib
+datasets
